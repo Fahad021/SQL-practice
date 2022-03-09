@@ -1,0 +1,1 @@
+SELECT DISTiNCT SystemMode FROM BGE
